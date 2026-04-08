@@ -1,6 +1,6 @@
 # Gorilla Tag Mod Tempalte
 
-[![Watch the video](https://img.youtube.com/vi/GA8E9L1XM5E/0.jpg)](https://youtu.be/GA8E9L1XM5E)
+[![Video Preview](preview.gif)](https://youtu.be/GA8E9L1XM5E)
 
 
 
